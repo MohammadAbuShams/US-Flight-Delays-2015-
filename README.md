@@ -15,7 +15,7 @@ The project demonstrates the use of **data visualization design principles**, ac
 ## 🔗 Tableau Public Links
 - [Bar Chart – Average Delay by Airline](https://public.tableau.com/app/profile/mohammad.abushams/viz/Book1_17563312212020/AverageArrivalDelaybyAirline2015?publish=yes)  
 - [Area Chart – Causes of Flight Delays by Month](https://public.tableau.com/app/profile/mohammad.abushams/viz/Book1_17563312212020/CausesofFlightDelaysbyMonth2015?publish=yes)  
-- [Dashboard – Delays by Month & Airport (https://public.tableau.com/app/profile/mohammad.abushams/viz/Book1_17563312212020/USAirlineDelaysTimeLocationInsights?publish=yes)  
+- [Dashboard – Delays by Month & Airport](https://public.tableau.com/app/profile/mohammad.abushams/viz/Book1_17563312212020/USAirlineDelaysTimeLocationInsights?publish=yes)  
 
 ---
 
@@ -61,8 +61,5 @@ The project demonstrates the use of **data visualization design principles**, ac
 
 ---
 
-## 👤 Author
-**Mohammad Abushams**  
-- 📧 1200549@student.birzeit.edu  
-- 🌐 [LinkedIn](PUT-YOUR-LINKEDIN-HERE) | [GitHub](https://github.com/YOUR-USERNAME)  
+
 
